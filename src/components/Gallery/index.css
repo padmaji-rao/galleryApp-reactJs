@@ -1,0 +1,31 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: fl;
+  align-items: flex-start;
+  padding: 30px;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+.image {
+  width: 50%;
+}
+.heading {
+  color: #1e293b;
+  font-weight: 500;
+}
+.para {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.thumbnails-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: 0px;
+  padding-left: 0px;
+}

@@ -1,0 +1,10 @@
+/* Write your code here. */
+.thumbnail-element {
+  background-color: transparent;
+  border-width: 0px;
+  margin: 5px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
